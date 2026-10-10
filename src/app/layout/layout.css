@@ -1,0 +1,30 @@
+/* Paso 1. Descomentar el código. Hay comentarios en el componente layout (html) */
+.fondo-oferta {
+  background-image: url('./../../assets/img/tulipanes2.png');
+  background-repeat: no-repeat;
+  opacity: 0.8;
+}
+
+.uno {
+  height: 45vh;
+  width: 80%;
+  border-radius: 21px 21px 0 0;
+  background-repeat: no-repeat;
+  background-image: url('./../../assets/img/flor.jpg');
+}
+
+.dos {
+  height: 45vh;
+  width: 80%;
+  border-radius: 21px 21px 0 0;
+  background-repeat: no-repeat;
+  background-image: url('./../../assets/img/manzanas.jpg');
+}
+
+.tres {
+  height: 45vh;
+  width: 80%;
+  border-radius: 21px 21px 0 0;
+  background-repeat: no-repeat;
+  background-image: url('./../../assets/img/ropa.jpg');
+}
